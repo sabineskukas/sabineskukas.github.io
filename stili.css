@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body
+{background-color:pink;
+background-attachment:fixed;}
+
+h1 {
+    font-family: verdana;
+    color: #DF01A5;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-family: italic;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    background-color: #F5A9F2;
+}
+
+p {
+    font-family: courier;
+    color: #F6CED8;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family: calibri;
+    color: #B4045F;
+    font-size: 30px;
+    text-align:justify;
+}
+
+p2 {
+    font-family: verdana;
+    color: #0B0B61;
+    font-size: 30px;
+}
+
+a:link {background-color:purple;}
+a:visited {background-color:silver;}
+a:hover {background-color:pink;}
+a:active {background-color:white;}
+
+
+ul.b {list-style-type:square;}
+ol.c {list-style-type:upper-roman;}
+
+
+
+
+</style>
+</head>
+<body>
+
+<h1>Sabînes gardâs kûciòas</h1>
+<p>Laipni lûdzam!</p>
+
+</body>
+</html>
